@@ -73,8 +73,7 @@ Before we go to far, I will mention that there are diffent types of tensors. The
 With the execption of ```Variable``` all these tensors are immuttable, meaning their value may not change during execution.
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shamanth7/
-Introduction_to_TensorFlow/blob/main/Introduction_to_TensorFlow.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shamanth7/Introduction_to_TensorFlow/blob/main/Introduction_to_TensorFlow.ipynb)
 
 
 # Sources
